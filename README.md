@@ -6,5 +6,8 @@ This repository contains an instance of the famous "Alien Invasion!" computer ga
 ## Dependencies
 This game uses the module [PyGame] (https://www.pygame.org). It's a super useful package for python for constructing simple games like this.
 
-## Playing the game
+## Playing the Game
 You can run your game through the terminal/command line. If you have python 3 installed on your computer and in your global PATH environment, just execute the command `python alien_invasion.py`in your terminal/command line. If it doesn't work, try using `python3 alien_invasion.py` instead.
+
+## Status of the Project
+In construction.
