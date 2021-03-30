@@ -1,7 +1,7 @@
 # Alien invasion
 
 ## About
-This repository contains an instance of the famous "Alien Invasion!" computer game. This project follows almost exactly the instructions found in the book "Python Crash Course, 2nd Edition" by Eric Matthes.
+This repository contains an instance of the famous "Space Invaders" arcade game. This project follows almost exactly the instructions found in the book "Python Crash Course, 2nd Edition" by Eric Matthes.
 
 ## Dependencies
 This game uses the module [PyGame] (https://www.pygame.org). It's a super useful package for python for constructing simple games like this.
