@@ -1,6 +1,7 @@
 import pygame
 from pygame.sprite import Sprite
 
+
 class Alien(Sprite):
     """
     A class to represent a single alien in the fleet.
@@ -37,6 +38,5 @@ class Alien(Sprite):
         """
         Move the alien right or left.
         """
-        self.x += (self.settings.alien_speed *
-                        self.settings.fleet_direction)
+        self.x += (self.settings.alien_speed * self.settings.fleet_direction)
         self.rect.x = self.x
