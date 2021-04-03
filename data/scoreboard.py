@@ -2,7 +2,7 @@ import pygame.font
 import pygame.transform
 from pygame.sprite import Group
 
-from ship import Ship
+from data.ship import Ship
 
 
 class Scoreboard:
